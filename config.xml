@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    version     = "1.0.0" >
+
+
+<name>SouthSideChickens Site</name>
+
+<description>
+       Il nostro sito trasformato in applicazione.
+</description>
+
+<author href="https://infosouthsidechick.wixsite.com/sscgames" email="southsidechichens@gmail.com">
+      SouthSideChickens
+</author>
+<icon src="logo.png"
+
+</widget>
